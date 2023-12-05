@@ -1,0 +1,18 @@
+{
+  "name": "res4-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "truffle-hdwallet-provider": "1.0.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "express": "^4.16.4"
+  },
+  "description": ""
+}
