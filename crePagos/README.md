@@ -1,6 +1,6 @@
 # crePagos
 crePagos is my pay project to get familiar with Ethereum. It's easy to use e-commerce payment gate.
-
+![Alt text](Ecommerce.jpeg)
 
 ## How to run it?
 Install following using npm:
